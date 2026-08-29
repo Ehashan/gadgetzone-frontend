@@ -87,7 +87,7 @@ export async function Header() {
             
             <Link href="/" className="flex items-center space-x-2">
               <span className="text-2xl font-extrabold text-foreground tracking-tight">
-                Gadget Mart
+                Gadget Zone
               </span>
             </Link>
           </div>

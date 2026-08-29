@@ -400,7 +400,7 @@ export default async function Home() {
                 ★★★★★
               </div>
               <p className="text-gray-700 mb-6 italic text-lg leading-relaxed">
-                "Incredible sound quality and the battery life lasts for days. Highly recommend Gadget Mart for their blazing fast shipping and great packaging."
+                "Incredible sound quality and the battery life lasts for days. Highly recommend Gadget Zone for their blazing fast shipping and great packaging."
               </p>
               <div className="flex items-center gap-4">
                 <div className="w-12 h-12 bg-pink-100 rounded-full flex items-center justify-center text-pink-600 font-bold text-xl">
